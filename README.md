@@ -1,18 +1,17 @@
-# 🤖 Multi-PDF Chat App (Local AI Assistant)
+# 🤖 Multi-PDF Chat App (AI Assistant)
 
-A lightweight, privacy-first local chat app that lets you upload multiple PDFs and chat with them — powered by local AI models for summarization and question answering. Works fully offline and designed for low-end machines (8GB RAM friendly).
+A lightweight, privacy-first chat app that lets you upload multiple PDFs and chat with them — powered by local AI models for summarization and question answering , designed for low-end machines (8GB RAM friendly).
 
 ---
 
 ## 🚀 Features
 
 - 📚 **Multi-PDF Upload**: Upload and query multiple PDFs at once.
-- 🧠 **Local LLM Support**: Uses lightweight models for summarization and QA.
+- 🧠 **LLM Support**: Uses lightweight models for summarization and QA.
 - 💬 **Chat Interface**: Clean conversational UI built with Streamlit.
 - 🔍 **Search Chat History** *(optional)*.
 - 🌐 **Translate Chat to Other Languages** *(optional)*.
-- 📊 **Chat Stats**: Total messages, word count, etc.
-- 🔁 **Undo Last Message**.
+- 📊 **Chat Stats**: Total messages, word count, etc. (optional)
 - 💾 **Save & Load Sessions** (JSON-based).
 - 🧠 **Recall User Inputs**: Assistant can show all your past questions.
 
